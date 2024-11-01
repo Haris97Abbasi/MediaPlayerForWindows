@@ -2,6 +2,8 @@
 
 This Multimedia Player is a sophisticated desktop application developed with `.NET WPF (Windows Presentation Foundation)` and `.NET Windows Forms` integration on `Visual Studio 2022`. Designed to operate seamlessly on Windows environments, it offers robust functionality for playing audio and video files, making it an ideal choice for users seeking a powerful media playback solution.
 
+![Screenshot of Application](/WPF_Media_Player.PNG "Application Screenshot")
+
 ## Features
 
 - **Versatile Media Playback:** Supports playing audio (`.mp3`) and video (`.mp4`) files, providing users with a comprehensive multimedia experience.
